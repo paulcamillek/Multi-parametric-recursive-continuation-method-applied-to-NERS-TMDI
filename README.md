@@ -8,5 +8,5 @@ Once a bifurcation point is found, the user is asked if he wants to continue alo
 There is also an option to compute the bifurcation diagram in F-xn space. L1 is for a level 1 continuation and has its related files. 
 L2 is a level 2 continuation and has its related files. More levels can be computed following the format of L1 and L2 and referring to 
 [https://doi.org/10.1016/j.ymssp.2019.03.011].
-Please beware that some function will need to be significantly modified for ones application
+Please beware that some function will need to be significantly modified for ones application.
 For further questions about this code, please email the author @ paulc97@vt.edu
